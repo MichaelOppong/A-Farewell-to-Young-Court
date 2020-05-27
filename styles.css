@@ -1,0 +1,42 @@
+body {
+    background-color: #00ffcc;
+    font-family: 'Lemonada', cursive;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.farewell-box {
+    background: #fee975;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.young-box {
+    background: #ffaa7b;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+.court-box {
+    background: #17d3ff;
+    color: white;
+    padding: 25px;
+    margin: 10px;
+    border: 10px solid black;
+}
+
+img {
+    width: 250px;
+}
